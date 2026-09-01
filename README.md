@@ -64,6 +64,8 @@ Me interesa continuar desarrollando mis conocimientos y aplicar buenas práctica
   <img src="https://skillicons.dev/icons?i=git,github,linux,figma" height="45">
 </p>
 
+
+
 `Git` · `GitHub` · `Linux` · `Figma` · `Jira` · `draw.io` · `Sentry`
 
 ---
@@ -122,6 +124,9 @@ Automation · DevOps · Linux
 
 </p>
 
+<a href="https://www.linkedin.com/in/gonzalobasoalto//">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
 ---
 
 <div align="center">
