@@ -122,6 +122,7 @@ Automation · DevOps · Linux
 <img src="https://img.shields.io/badge/GitHub-GBasoalto-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 
+<br>
 
 
 <a href="https://www.linkedin.com/in/gonzalobasoalto//">
